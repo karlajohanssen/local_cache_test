@@ -1,0 +1,7 @@
+{
+    "app_id": "local_cache_test-kwnls",
+    "config_version": 20210101,
+    "name": "local_cache_test",
+    "location": "IE",
+    "deployment_model": "LOCAL"
+}
